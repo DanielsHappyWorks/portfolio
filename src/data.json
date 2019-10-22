@@ -30,13 +30,13 @@
         },
         {
             "name": "Instagram",
-            "link": "",
+            "link": "https://www.instagram.com/dkill2204/",
             "icon": "fab fa-instagram",
             "iconColour": "blue"
         },
         {
             "name": "Facebook",
-            "link": "",
+            "link": "https://www.facebook.com/daniel.foth1",
             "icon": "fab fa-facebook-square",
             "iconColour": "blue darken-2"
         }
