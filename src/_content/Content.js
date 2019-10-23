@@ -40,7 +40,7 @@ class Content extends Component {
 
     var cards = data.cardData.map(function (card) {
       return (
-        <div class="col s4">
+        <div class="col s12 m4">
           <div class="card-panel minHeight">
             <p class="flow-text">{card.title}</p>
             <div class="divider"></div>
