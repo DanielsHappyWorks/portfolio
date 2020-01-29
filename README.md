@@ -27,6 +27,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `"deploy": "gh-pages -d build",`
+### ` npm run deploy`
 
-to deploy to github pages
+to deploy to github pages after build

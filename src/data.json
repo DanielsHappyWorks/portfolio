@@ -55,7 +55,7 @@
                 },
                 {
                     "title": "Outreach Events Tutor @ DkIT, Louth",
-                    "date": "February 2017 - August 2017",
+                    "date": "January 2018 - May 2018",
                     "description": "Tutored javaScript once a week for 5 weeks at the St. Louis Secondary School in Louth",
                     "picture": "resources/images/dkit.png"
                 },
@@ -81,7 +81,7 @@
                 {
                     "title": "Level 8 BSc (Hons) Computing in Games Development @ DkIT, Louth",
                     "date": "September 2014 - May 2018",
-                    "description": "Tutored javaScript once a week for 5 weeks at the St. Louis Secondary School in Louth",
+                    "description": "Recieved a 1.1 honours after completeing the 4 year degree in Games Development",
                     "picture": "resources/images/dkit.png"
                 }
             ]
@@ -95,18 +95,18 @@
                     "title": "INFUSE Hackathons @ Ericsson, Athlone",
                     "date": "October 2018",
                     "description": "Tutored HTML and JavaScript to primary school students.",
-                    "picture": "resources/images/ericsson.png"
+                    "picture": "resources/images/ericsson.jpg"
                 },
                 {
                     "title": "Hour of Code @ DkIT, Dundalk",
-                    "date": "December 2016/2017",
-                    "description": "Currently doing an AI course to upskill in a field of interest.",
+                    "date": "December 2016 & 2017",
+                    "description": "Guided parents and children through hour of code tutorials.",
                     "picture": "resources/images/dkit.png"
                 },
                 {
                     "title": "Coder Dojo @ DkIT, Dundalk",
                     "date": "January 2017 - May 2017",
-                    "description": "Currently doing an AI course to upskill in a field of interest.",
+                    "description": "Tutored scratch to children between the age of 7-12",
                     "picture": "resources/images/dkit.png"
                 }
             ]
@@ -129,8 +129,8 @@
                     "icon": "far fa-comments"
                 },
                 {
-                    "name": "UX Analysis",
-                    "icon": "fas fa-chart-line"
+                    "name": "UX Design",
+                    "icon": "fas fa-pencil-ruler"
                 }
             ]
         },
